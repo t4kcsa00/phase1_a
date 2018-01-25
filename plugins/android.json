@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.GeoLocation"
+    },
+    "cordova-plugin-nativegeocoder": {
+      "PACKAGE_NAME": "com.example.GeoLocation"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.GeoLocation"
+    }
+  },
+  "dependent_plugins": {}
+}
